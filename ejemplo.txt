@@ -1,3 +1,9 @@
 git init  sirve para inicializar el proyecto
 git config --global user.name "justjps1970"
 git config --global user.mail "jps@unam"
+git add. 
+git status
+git commit -m "mi primer comit"
+git branch -m maingit branch -m main
+
+hola como estas
